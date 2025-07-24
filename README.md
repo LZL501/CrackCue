@@ -45,6 +45,15 @@ After downloading, replace `img_path` in the `path.py` script with your local pa
 
     python path.py
 
+## Checkpoints
+
+You can download our trained model checkpoint from the following link:
+
+- CrackCue checkpoint:  
+  https://drive.google.com/file/d/1G2SC1ez8h0Uf1KK22dlzuIDIssPiOrco/view?usp=sharing
+
+After downloading, place the checkpoint file under the `./checkpoints` directory or modify the path in the `--checkpoint_path` argument accordingly.
+
 ## Training
 
 To train the model, run the following command with desired arguments:
