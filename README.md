@@ -1,6 +1,6 @@
 # CrackCue
 
-The new version is now online, with thelink: [https://hal.science/hal-05169427](https://hal.science/hal-05169427)
+The new version is now online, with the link: [https://hal.science/hal-05169427](https://hal.science/hal-05169427)
 
 PyTorch implementation of "CrackCue" (to appear in Pattern Recognition, 2025).  
 [Paper link](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4957739)
